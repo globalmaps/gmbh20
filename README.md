@@ -1,4 +1,4 @@
-# gmbh10: Global Map Bahrain 2.0
+# gmbh20: Global Map Bahrain 2.0
 ## non-commercial use
 ![attribution](https://globalmaps.github.io/globalmaps/attribution.png)
 ## commercial use
