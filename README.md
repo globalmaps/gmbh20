@@ -11,5 +11,5 @@ Contact: Survey and Land Registration Bureau, Topography Survey Directorate.
 
 URL: www.slrb.gov.bh
 
-E-mail: ![email](https://www.iscgm.org/gmd/images/email/bahrain.png)
+E-mail: ![email](email.png)
 
